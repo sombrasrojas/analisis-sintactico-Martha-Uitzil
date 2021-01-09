@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\dl.vb"
+		},
+		{
+			"path": "..\\..\\Análizador sintáctico-Diana"
+		},
+		{
+			"path": "..\\..\\ply-3.11"
+		},
+		{
+			"path": "..\\..\\dl"
+		},
+		{
+			"path": "..\\..\\Analisis-lexico-sintactico-Python-master"
+		},
+		{
+			"path": "..\\..\\Analizador-Sintatico-master"
+		},
+		{
+			"path": "..\\..\\Ejercicio_Sintactico"
+		},
+		{
+			"path": "..\\..\\ejercicios2-U5-main"
+		},
+		{
+			"path": "..\\..\\Ejercicio_Sintactico-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
